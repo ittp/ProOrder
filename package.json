@@ -1,0 +1,25 @@
+{
+  "name": "proorderform",
+  "description": "通过 fixedHeader 固定表头，只有在溢出容器时才会开始计算。",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/pro-card": "1.11.13",
+    "@ant-design/pro-form": "1.23.0",
+    "@ant-design/pro-layout": "6.18.0",
+    "@ant-design/pro-provider": "1.4.12",
+    "antd": "4.x",
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "keywords": [],
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
